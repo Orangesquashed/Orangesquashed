@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Orangesquashed.
 - 👀 I’m interested in learning new things and challenging myself.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on exciting projects.
 - ⚡ Fun fact: I really enjoy walking in the rain.
